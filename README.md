@@ -1,2 +1,2 @@
 # Alcomanda
-Hkar
+Hkr
